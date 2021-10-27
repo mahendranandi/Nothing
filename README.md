@@ -4,20 +4,32 @@ This repository is for uploading some files for refering, no uses for you if I h
 
 Tricks to write readme file in github:
 this is for my own requirement, and I am collecting things from various place to here.
-
+#
 *italic*
 **bold**
 ~~this~~
+#
+  *italic*
+  **bold**
+  ~~this~~
+#
+     *italic*
+     **bold**
+     ~~this~~
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+
+
+# This is an tag
+## "This is an tag"
+## `This is an  tag`
+###### This is an tag
+
 
   
-  *This text will be italic*
-_This will also be italic_
-**This text will be bold**
-__This will also be bold__
+*This text will be italic*\
+_This will also be italic_\
+**This text will be bold**\
+__This will also be bold__ \
 _You **can** combine them_
 
 Unordered list
@@ -93,12 +105,14 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 
   
- # For emoji go to https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md 
+ #
+ For emoji go to https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md 
   
+
   
-  
-  
-  
+#
+<h2>
+Using `<h2>` it is made such
   
   
   
