@@ -48,7 +48,7 @@ Ordered list
 Images  
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
-  
+[image here]<img src="./Images/adam3.png" align="middle" width="240" height="240">
   
 Links
 http://github.com - automatic!
