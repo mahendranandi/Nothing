@@ -49,7 +49,8 @@ Images
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 [image here]<img src="./Images/adam3.png" align="middle" width="240" height="240">
-  
+`[image here]<img src="./Images/adam3.png" align="middle" width="240" height="240">`
+
 Links
 http://github.com - automatic!
 [GitHub](http://github.com)  
@@ -109,7 +110,9 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
  For emoji go to https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md 
   
 ## For mathematical equations:
-
+```
+![\Large f(x,y)=$\frac{sin(10(x^2+y^2))}{10}](https://latex.codecogs.com/svg.latex?\Large&space;f(x,y)=\frac{sin(10(x^2+y^2))}{10})
+```
 ![\Large f(x,y)=$\frac{sin(10(x^2+y^2))}{10}](https://latex.codecogs.com/svg.latex?\Large&space;f(x,y)=\frac{sin(10(x^2+y^2))}{10})
   
 #
