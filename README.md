@@ -85,7 +85,10 @@ You can also simply indent your code by four spaces:
       }
     }  
   
-  
+ ``` 
+  - [x]
+  - [ ]
+  ```
 Task Lists
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
